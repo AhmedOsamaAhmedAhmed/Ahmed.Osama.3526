@@ -1,59 +1,91 @@
 <h1>Hi There, I'm Ahmed Osama <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a passionate **Full Stack Developer** with 2 years of commercial experience. I specialize in building scalable web applications using **MERN Stack**, **NestJS**, and **GraphQL**. I spend 80% of my day crafting clean code and managing DevOps workflows to ensure high-performance delivery.
+Passionate **Full-Stack Developer** with 2 years of hands-on experience in designing, developing, and deploying modern web applications. Proficient in front-end technologies and modern frameworks, with a solid foundation in back-end development. Experienced in database integration, version control, and collaborative team environments.
 
-- 🚀 Currently working with: **React.js, Next.js, and NestJS**
-- ☁️ Experienced in: **AWS (Lambda, Serverless), PM2, and Linux Administration**
-- 🛠️ Specialized in: **API Design (REST & GraphQL) and Database Optimization**
-- 📫 How to reach me: [Your Email or LinkedIn Link]
+## Professional Experience :briefcase:
+
+### Full Stack Developer
+**Mohandes Life Insurance** | *Feb 2025 - Present*
+- Building high-performance, scalable web applications using React.js, Next.js, Node.js, and Express.js
+- Crafting fast, dynamic, and responsive frontends with React & Next.js (SEO-optimized)
+- Developing secure, RESTful APIs and backend services
+
+### Front End Developer
+**Arcodex** | *Oct 2023 - Jan 2025*
+- Developed fully responsive applications using React.js
+- Specialized in converting design mockups to pixel-perfect code
 
 ---
 
-## Skill Set :muscle:
+## Skills Set :muscle:
 
-These are the core technologies I use to bring ideas to life:
+**Frontend**
 
-### **Frontend Development**
-<img title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" /> | <img title="CSS3" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" /> | <img title="JavaScript" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" /> | <img title="TypeScript" alt="TS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" /> | <img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" /> | <img title="Next.js" alt="Next.js" width="40px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
-|--|--|--|--|--|--|
-<img title="Tailwind CSS" alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" /> | <img title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" /> | <img title="Material UI" alt="MUI" width="40px" src="https://img.icons8.com/color/48/000000/material-ui.png" />
-
-### **Backend & APIs**
-<img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" /> | <img title="NestJS" alt="NestJS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png" /> | <img title="Express" alt="Express" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" /> | <img title="GraphQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" />
+<img title="HTML5" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"> | <img title="CSS3" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"> | <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | <img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
 |--|--|--|--|
 
-### **Infrastructure & DevOps**
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" /> | <img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" /> | <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" /> | <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> | <img title="Next.js" alt="Next.js" width="40px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"> | <img title="Vue.js" alt="Vue.js" width="40px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"> | <img title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png">
 |--|--|--|--|
 
-### **Databases**
-<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" /> | <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" /> | <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" /> | <img title="Redis" alt="Redis" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png" />
+<img title="Tailwind CSS" alt="Tailwind" width="40px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"> | <img title="Material UI" alt="Material UI" width="40px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"> | <img title="Bootstrap" alt="Bootstrap" width="40px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"> | <img title="Shadcn" alt="Shadcn" width="40px" src="https://ui.shadcn.com/logo.svg">
 |--|--|--|--|
 
----
+**Backend**
 
-## What I Do 🛠️
+<img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"> | <img title="Express" alt="Express" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png"> | <img title="NestJS" alt="NestJS" width="40px" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg"> | <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
+|--|--|--|--|
 
-* **UI/UX Implementation:** Translating complex wireframes into functional, responsive components.
-* **Performance Tuning:** Optimizing MongoDB queries and frontend assets for maximum speed.
-* **Scalable Architecture:** Designing RESTful and GraphQL APIs using NestJS and microservices.
-* **Serverless Deployment:** Deploying and managing applications using AWS Lambda and Serverless framework.
+**Databases**
 
----
+<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> | <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"> | <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> | <img title="MS SQL Server" alt="SQL Server" width="40px" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">
+|--|--|--|--|
 
-## Some of my stats :bar_chart:
+**Tools & DevOps**
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true" alt="Ahmed's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> | <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"> | <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"> | <img title="Jest" alt="Jest" width="40px" src="https://cdn.worldvectorlogo.com/logos/jest-2.svg">
+|--|--|--|--|
 
----
+<br>
+
+## Featured Projects :rocket:
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [Smart Communication Hub](link) | Next.js, PostgreSQL, Node.js, Express.js | Real-time messaging platform with AI-powered conversation analysis, sentiment analysis, and key topic extraction |
+| [Full Stack E-Commerce](link) | Next.js, React.js, Tailwind, Shadcn, MongoDB | E-commerce platform with efficient data management |
+| [Cloud Hosting Website](link) | Next.js, API, PostgreSQL, Prisma | SEO-optimized hosting platform with SSR |
+| [Book Store REST API](link) | Node.js, Express.js, MongoDB | Scalable backend for book inventory with CRUD operations |
+| [Blog APP (MERN)](link) | MongoDB, Express.js, React.js, Node.js | Full-stack blog with posts, comments, and likes |
+| [Car Management App](link) | React.js, Material UI | Car CRUD with localStorage, search, and sorting |
+| [Expense Tracker](link) | React.js, Bootstrap, Redux | Finance management with expense categorization |
+| [Car Rental Website](link) | HTML, CSS, JavaScript | Responsive car rental UI deployed on Netlify |
+
+<br>
+
+## Certificates :mortar_board:
+
+- ✅ Full Stack Web Development Using MERN - **ITI** (3 Months)
+- ✅ .Net Web Developer - **Digital Egypt Pioneers Initiative (DEPI)**
+- ✅ Web Design - **National Telecommunication Institute (NTI)**
+- ✅ JavaScript (Problem Solving) - **HackerRank**
+- ✅ Python Programming - **HackerRank**
+
+<br>
+
+## Education :books:
+
+- **Diploma in Computer Science** - Faculty of Graduate Studies for Statistical Research, Cairo University | *2025 - Present*
+
+- **Bachelor's in Management Information Systems (MIS)** - Modern Academy in Maadi | *2018 - 2022*
+  - Grade: Very Good
+
+<br>
 
 ## Let's Connect :handshake:
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
+<!-- أضف روابط التواصل الأخرى هنا -->
 
-### Here is a random meme for you! 
-<a href="https://github.com/techytushar/random-memer"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Meme" height="350"></a>
+---
+
+### Thank you for visiting my profile! :wink:
