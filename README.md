@@ -21,30 +21,139 @@ Passionate **Full-Stack Developer** with 2 years of hands-on experience in desig
 
 **Frontend**
 
-<img title="HTML5" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"> | <img title="CSS3" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"> | <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | <img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
-|--|--|--|--|
+**Frontend**
 
-<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> | <img title="Next.js" alt="Next.js" width="40px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"> | <img title="Vue.js" alt="Vue.js" width="40px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"> | <img title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png">
-|--|--|--|--|
+<table>
+  <tr>
+    <td align="center">
+      <img title="HTML5" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
+      <br><strong>HTML5</strong>
+    </td>
+    <td align="center">
+      <img title="CSS3" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
+      <br><strong>CSS3</strong>
+    </td>
+    <td align="center">
+      <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center">
+      <img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
+      <br><strong>TypeScript</strong>
+    </td>
+  </tr>
+</table>
 
-<img title="Tailwind CSS" alt="Tailwind" width="40px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"> | <img title="Material UI" alt="Material UI" width="40px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"> | <img title="Bootstrap" alt="Bootstrap" width="40px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"> | <img title="Shadcn" alt="Shadcn" width="40px" src="https://ui.shadcn.com/logo.svg">
-|--|--|--|--|
+<table>
+  <tr>
+    <td align="center">
+      <img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
+      <br><strong>React</strong>
+    </td>
+    <td align="center">
+      <img title="Next.js" alt="Next.js" width="40px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg">
+      <br><strong>Next.js</strong>
+    </td>
+    <td align="center">
+      <img title="Vue.js" alt="Vue.js" width="40px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg">
+      <br><strong>Vue.js</strong>
+    </td>
+    <td align="center">
+      <img title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png">
+      <br><strong>Redux</strong>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img title="Tailwind CSS" alt="Tailwind" width="40px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
+      <br><strong>Tailwind CSS</strong>
+    </td>
+    <td align="center">
+      <img title="Material UI" alt="Material UI" width="40px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">
+      <br><strong>Material UI</strong>
+    </td>
+    <td align="center">
+      <img title="Bootstrap" alt="Bootstrap" width="40px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg">
+      <br><strong>Bootstrap</strong>
+    </td>
+    <td align="center">
+      <img title="Shadcn" alt="Shadcn" width="40px" src="https://ui.shadcn.com/logo.svg">
+      <br><strong>Shadcn</strong>
+    </td>
+  </tr>
+</table>
 
 **Backend**
 
-<img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"> | <img title="Express" alt="Express" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png"> | <img title="NestJS" alt="NestJS" width="40px" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg"> | <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
-|--|--|--|--|
+<table>
+  <tr>
+    <td align="center">
+      <img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center">
+      <img title="Express" alt="Express" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png">
+      <br><strong>Express</strong>
+    </td>
+    <td align="center">
+      <img title="NestJS" alt="NestJS" width="40px" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg">
+      <br><strong>NestJS</strong>
+    </td>
+    <td align="center">
+      <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
+      <br><strong>Python</strong>
+    </td>
+  </tr>
+</table>
 
 **Databases**
 
-<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> | <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"> | <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> | <img title="MS SQL Server" alt="SQL Server" width="40px" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">
-|--|--|--|--|
+<table>
+  <tr>
+    <td align="center">
+      <img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
+      <br><strong>MongoDB</strong>
+    </td>
+    <td align="center">
+      <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">
+      <br><strong>PostgreSQL</strong>
+    </td>
+    <td align="center">
+      <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center">
+      <img title="MS SQL Server" alt="SQL Server" width="40px" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">
+      <br><strong>MS SQL Server</strong>
+    </td>
+  </tr>
+</table>
 
 **Tools & DevOps**
 
-<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> | <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"> | <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"> | <img title="Jest" alt="Jest" width="40px" src="https://cdn.worldvectorlogo.com/logos/jest-2.svg">
-|--|--|--|--|
-
+<table>
+  <tr>
+    <td align="center">
+      <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+      <br><strong>Git</strong>
+    </td>
+    <td align="center">
+      <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+      <br><strong>Docker</strong>
+    </td>
+    <td align="center">
+      <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
+      <br><strong>AWS</strong>
+    </td>
+    <td align="center">
+      <img title="Jest" alt="Jest" width="40px" src="https://cdn.worldvectorlogo.com/logos/jest-2.svg">
+      <br><strong>Jest</strong>
+    </td>
+  </tr>
+</table>
 <br>
 
 ## Featured Projects :rocket:
